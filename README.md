@@ -20,5 +20,3 @@ This is a classic Hangman game built in Python, designed exclusively for registe
 - Clean and maintainable codebase with modular structure  
 - Input validation and graceful error handling  
 - Supports multiple users with individual saved sessions  
-
-## 📁 Project Structure
